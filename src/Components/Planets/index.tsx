@@ -1,4 +1,4 @@
-import Data from "../data.json";
+import Data from "../data.tsx";
 import Description from "../Description";
 import Info from "../Info";
 import ChangeInfo from "../ChangeInfo";
